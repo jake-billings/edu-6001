@@ -51,5 +51,5 @@ def test():
 
 
 # If somebody runs this file, test the stuff
-if __name__ == "__main__":
+if __name__ == '__main__':
     test()
